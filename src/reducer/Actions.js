@@ -1,0 +1,6 @@
+export const Actions = {
+    CREATE_TODO:'CREATE-TODO',
+    UPDATE_TODO:"UPDATE-TODO",
+    DELETE_TODO:'DELTE-TODO',
+    TODO_LIST:'TODO-LIST'
+}
